@@ -1,4 +1,4 @@
-The article introduces synthetic data generation using Generative AI, specifically Generative Adversarial Networks (GANs), to create artificial datasets that mimic real data's statistical properties. The tutorial walks through preprocessing steps, model architecture, and GAN training for generating synthetic samples. It utilizes a dataset of app usage patterns and focuses on privacy-preserving synthetic data generation.
+The article introduces synthetic data generation using Generative AI, specifically Generative Adversarial Networks (GANs), to create artificial datasets that mimic real data's statistical properties. This project walks through preprocessing steps, model architecture, and GAN training for generating synthetic samples. It utilizes a dataset of app usage patterns and focuses on privacy-preserving synthetic data generation.
 # Synthetic Data Generation with Generative AI
 
 This project uses Generative Adversarial Networks (GANs) to create synthetic data that maintains real-world data patterns, while ensuring privacy. The project demonstrates techniques for preprocessing, training a GAN, and generating synthetic data.
