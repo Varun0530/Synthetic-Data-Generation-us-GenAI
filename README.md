@@ -27,10 +27,21 @@ Scikit-learn
 
 
 ## Installation
-Clone the repo and install dependencies:
+Clone the repo and installation on google collab:
 ```bash
-git clone <repo_url>
-pip install -r requirements.txt
+!git clone https://github.com/Varun0530/Synthetic-Data-Generation-us-GenAI.git
+cd Synthetic-Data-Generation-us-GenAI/
+```
+1) Open the Synthetic_Data_generation_with_GenAI.ipynb file and copy its URL.
+
+2) Open google collab and select the 'File' drop down option following with 'Upload notebook'.
+
+3) Paste the URL in the github repo box and Enter.
+![s1](https://github.com/user-attachments/assets/ec59c43a-ce95-48dc-95b5-f24643ff902d)
+![s2](https://github.com/user-attachments/assets/d6e65a5e-ac75-4925-850c-03f27d38f474)
+
+
+
 
 
 
