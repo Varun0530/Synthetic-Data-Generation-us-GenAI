@@ -9,7 +9,7 @@ This project uses Generative Adversarial Networks (GANs) to create synthetic dat
 - Privacy-preserving data practices
 
 ## Usage
-Prepare and preprocess data.
+Prepare and preprocess data
 Run synthetic_data_generation.py to train the GAN.
 Generate synthetic samples using the trained model.
 
